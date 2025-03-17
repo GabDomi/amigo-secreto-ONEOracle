@@ -65,7 +65,7 @@ Para rodar este projeto em sua máquina local:
 
 ## 📸 Visualização do Projeto
 
-![Imagem do Projeto Amigo Secreto](assets/amigo-secreto.png)
+![Imagem do Projeto Amigo Secreto](assets/ImagemDoProjeto.png)
 
 ---
 
